@@ -1,4 +1,3 @@
-Copy
 # Sentiment Analysis with Sentiment140
 
 ## Overview
